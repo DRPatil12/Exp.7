@@ -1,3 +1,7 @@
+NAME: Dhruv Patil
+
+PRN: 25070123146
+
 # Experiment 7: Study Of Loops in Python
 # Aim
 
